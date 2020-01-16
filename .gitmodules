@@ -1,0 +1,3 @@
+[submodule "src/commonCode"]
+	path = src/commonCode
+	url = http://zhangpan@10.7.142.34:8888/Front-End/PC/front-end-common-code.git
